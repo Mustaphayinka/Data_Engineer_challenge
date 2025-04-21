@@ -47,7 +47,8 @@ http://0.0.0.0:8000/docs
 ```GET /meta/NGA```
 
 Response:
-```{
+```
+{
 "Country": "Nigeria"
 "Capital": "Abuja"
 "Region": "Sub-Saharan Africa"
@@ -64,9 +65,10 @@ GET /country/Nigeria
 
 Response:
 ```json
+{
 "Country": "Nigeria"
 "URL": "https://data.worldbank.org//country/nigeria?view=chart"
-
+}
 ```
 
 
